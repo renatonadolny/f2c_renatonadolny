@@ -1,0 +1,23 @@
+{
+  "name": "fahrenheit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renatonadolny/f2c_renatonadolny.git"
+  },
+  "keywords": [
+    "fahrenheit",
+    "celsius"
+  ],
+  "author": "Renato G. F. Nadolny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renatonadolny/f2c_renatonadolny/issues"
+  },
+  "homepage": "https://github.com/renatonadolny/f2c_renatonadolny#readme",
+  "description": ""
+}
