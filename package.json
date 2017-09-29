@@ -1,5 +1,5 @@
 {
-  "name": "fahrenheit",
+  "name": "f2c_renatonadolny",
   "version": "1.0.1",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "fahrenheit",
     "celsius"
   ],
-  "author": "Renato G. F. Nadolny",
+  "author": "Renato G. F. Nadolny<renato.nadolny@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/renatonadolny/f2c_renatonadolny/issues"
