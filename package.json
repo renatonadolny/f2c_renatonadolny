@@ -1,5 +1,4 @@
-{'use strict'
-  "name": "f2c_renatonadolny",
+{  "name": "f2c_renatonadolny",
   "version": "1.0.1",
   "main": "index.js",
   "scripts": {

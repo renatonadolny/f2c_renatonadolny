@@ -1,3 +1,4 @@
+'use strict'
 module.exports = function (tempF){
 	
 	if (typeof tempF === 'string'){ 
