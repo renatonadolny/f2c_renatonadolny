@@ -1,5 +1,5 @@
 {  "name": "f2c_renatonadolny",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
